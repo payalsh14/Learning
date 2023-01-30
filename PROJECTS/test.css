@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+#circle{
+    background-color: antiquewhite;
+    width: 50vh;
+    height: 50vh;
+    /* justify-content: center; */
+    border-radius: 50vh;
+}
